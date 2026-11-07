@@ -1,0 +1,11 @@
+{
+  "name": "seerah-ts-ghazawat-chronicle",
+  "version": "1.0.0",
+  "description": "Prophetic Ghazawat & Saraya Chronological & Strategic Analyzer (موسوعة الغزوات والسرايا النبوية والتحليل الزمني)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
